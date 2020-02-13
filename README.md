@@ -176,55 +176,55 @@ In a file called `strings.js`, you should be able to do the following:
 
 In a file called `arrays.js`, you should be able to do the following:
 
-- [ ] Declare a variable named `coolArray` containing an array of at least 5 elements (of any type)
-- [ ] Get the length of `coolArray`
-- [ ] Get the value of...
-  - [ ] The 1st element in `coolArray` (at index `0`)
-  - [ ] The 2nd element in `coolArray` (at index `1`)
-  - [ ] The last element in `coolArray`
-  - [ ] The element at index `k` in `coolArray`, where `k` is a variable containing a number
-- [ ] Change the value of...
-  - [ ] The 1st element in `coolArray` (at index `0`)
-  - [ ] The 2nd element in `coolArray` (at index `1`)
-  - [ ] The last element in `coolArray`
-  - [ ] The element at index `k` in `coolArray`, where `k` is a variable containing a number
-- [ ] Append an element to `coolArray`
-- [ ] Remove the last element of `coolArray`
-- [ ] Prepend an element to `coolArray`
-- [ ] Remove the first element of `coolArray`
+- [X] Declare a variable named `coolArray` containing an array of at least 5 elements (of any type)
+- [X] Get the length of `coolArray`
+- [X] Get the value of...
+  - [X] The 1st element in `coolArray` (at index `0`)
+  - [X] The 2nd element in `coolArray` (at index `1`)
+  - [X] The last element in `coolArray`
+  - [X] The element at index `k` in `coolArray`, where `k` is a variable containing a number
+- [X] Change the value of...
+  - [X] The 1st element in `coolArray` (at index `0`)
+  - [X] The 2nd element in `coolArray` (at index `1`)
+  - [X] The last element in `coolArray`
+  - [X] The element at index `k` in `coolArray`, where `k` is a variable containing a number
+- [X] Append an element to `coolArray`
+- [X] Remove the last element of `coolArray`
+- [X] Prepend an element to `coolArray`
+- [X] Remove the first element of `coolArray`
 
 ### Objects
 
 In a file called `objects.js`, you should be able to do the following:
 
-- [ ] Declare a variable named `personData` containing an empty object `{}`
-- [ ] Modify `personData` so that...
-  - [ ] The value for the key `firstName` is `'Jean-Luc'`
-  - [ ] The value for the key `lastName` is `'Picard'`
-  - [ ] The value for the key `age` is `79`
-- [ ] Create an object named `daysInMonth` whose keys are strings of the month names `'January'`, `'February'`, etc. and the keys are the number of days in that month.
+- [X] Declare a variable named `personData` containing an empty object `{}`
+- [X] Modify `personData` so that...
+  - [X] The value for the key `firstName` is `'Jean-Luc'`
+  - [X] The value for the key `lastName` is `'Picard'`
+  - [X] The value for the key `age` is `79`
+- [X] Create an object named `daysInMonth` whose keys are strings of the month names `'January'`, `'February'`, etc. and the keys are the number of days in that month.
 
 ### Conversions And Equivalents
 
 In a file called `conversions.js`, you should be able to do the following:
 
-- [ ] Convert a number to a string, e.g., `1234` to `'1234'`
-- [ ] Convert a string to a number, e.g., `'1234'` to `1234`
-- [ ] Convert a string to an array containing its characters, e.g.,
+- [X] Convert a number to a string, e.g., `1234` to `'1234'`
+- [X] Convert a string to a number, e.g., `'1234'` to `1234`
+- [X] Convert a string to an array containing its characters, e.g.,
 
   ```javascript
   'apples'
   ['a', 'p', 'p', 'l', 'e', 's']
   ```
 
-- [ ] Given an array containing strings, join the strings together into a single string
+- [X] Given an array containing strings, join the strings together into a single string
 
   ```javascript
   ['one', '--two--', 'three']
   'one--two--three'
   ```
 
-- [ ] Given an array containing strings, join the strings together into a string separated by a `|` character
+- [X] Given an array containing strings, join the strings together into a string separated by a `|` character
 
   ```javascript
   ['one', 'two', 'three']
