@@ -104,9 +104,9 @@ You should be able to...
 
 You should be able to...
 
-- [ ] Create a new (empty) JavaScript file named `sandbox.js` and edit it in VS code
-- [ ] Write some JavaScript in `sandbox.js`
-- [ ] Use `node` in the terminal to run the file
+- [X] Create a new (empty) JavaScript file named `sandbox.js` and edit it in VS code
+- [X] Write some JavaScript in `sandbox.js`
+- [X] Use `node` in the terminal to run the file
 
 The name `sandbox.js` is meant as an example. You could name the file anything.
 
@@ -239,55 +239,55 @@ You will probably want to create more than one file to demonstrate everything be
 
 You should be able to do the following using a loop:
 
-- Print out every integer between `40` and `60` (including both `40` and `60`)
-- Print out every even integer between `40` and `60` (including both `40` and `60`)
+- [X] Print out every integer between `40` and `60` (including both `40` and `60`)
+- [X] Print out every even integer between `40` and `60` (including both `40` and `60`)
 - Define variables `min` and `max` containing integers and...
-  - Print out every integer between `min` and `max` (inclusive)
-  - Print out every even integer between `min` and `max` (inclusive)
-- Print the first `10` multiples of `7`
-- Print the first `k` multiples of `7`, where `k` is a variable containing a positive integer
-- Print the first `k` multiples of `n`, where `k` is a variable containing a positive integer and `n` is any number
+  - [X] Print out every integer between `min` and `max` (inclusive)
+  - [X] Print out every even integer between `min` and `max` (inclusive)
+- [X] Print the first `10` multiples of `7`
+- [X] Print the first `k` multiples of `7`, where `k` is a variable containing a positive integer
+- [X] Print the first `k` multiples of `n`, where `k` is a variable containing a positive integer and `n` is any number
 
 #### Looping With Arrays
 
-- Define an array called `coolArray` containing at least 4 elements of any type and...
-  - Print every element of `coolArray`
-  - Print every other element of `coolArray`, starting with the first element
-  - Print the elements of `coolArray` in reverse order
+- [X] Define an array called `coolArray` containing at least 4 elements of any type and...
+  - [X] Print every element of `coolArray`
+  - [X] Print every other element of `coolArray`, starting with the first element
+  - [X] Print the elements of `coolArray` in reverse order
 
 ##### ...Containing Numbers
 
-- [ ] Declare an array containing at least 8 numbers called `listOfNumbers` and...
-  - [ ] Print out the largest element
-  - [ ] Print out the smallest element
-  - [ ] Print out all the elements greater than `0`
-  - [ ] Print out all the elements greater than `k`, where `k` is a variable containing a number
-  - [ ] Print out all the even elements
-- [ ] Using `sort()`...
-  - [ ] Print out elements of `coolArray` sorted from largest to smallest
-  - [ ] Print out the elements of `coolArray` sorted from smallest to largest
+- [X] Declare an array containing at least 8 numbers called `listOfNumbers` and...
+  - [X] Print out the largest element
+  - [X] Print out the smallest element
+  - [X] Print out all the elements greater than `0`
+  - [X] Print out all the elements greater than `k`, where `k` is a variable containing a number
+  - [X] Print out all the even elements
+- [X] Using `sort()`...
+  - [X] Print out elements of `coolArray` sorted from largest to smallest
+  - [X] Print out the elements of `coolArray` sorted from smallest to largest
 
 ##### ...Containing Strings
 
-- [ ] Define an array containing at least 8 strings called `listOfStrings` and...
-  - [ ] Print out the longest string
-  - [ ] Print out the shortest string
-  - [ ] Print out all the strings longer than `3` characters
-  - [ ] Print out all the strings longer than `minLength` characters, where `minLength` is a variable containing a number
-  - [ ] Print out the first string that begins with the letter `A`
-  - [ ] Print `'found it!'` if `listOfStrings` contains the string `'needle'`
-- [ ] Using `sort()`...
-  - [ ] Print out elements of `listOfStrings` sorted alphabetically (from A to Z)
-  - [ ] Print out the elements of `listOfStrings` sorted reverse alphabetically (from Z to A)
+- [X] Define an array containing at least 8 strings called `listOfStrings` and...
+  - [X] Print out the longest string
+  - [X] Print out the shortest string
+  - [X] Print out all the strings longer than `3` characters
+  - [X] Print out all the strings longer than `minLength` characters, where `minLength` is a variable containing a number
+  - [X] Print out the first string that begins with the letter `A`
+  - [X] Print `'found it!'` if `listOfStrings` contains the string `'needle'`
+- [X] Using `sort()`...
+  - [X] Print out elements of `listOfStrings` sorted alphabetically (from A to Z)
+  - [X] Print out the elements of `listOfStrings` sorted reverse alphabetically (from Z to A)
 
 ### Looping With Objects
 
-- [ ] Declare an object `coolObject` containing at least 5 key/value pairs and..
-  - [ ] Print out every key and value in `coolObject`
-  - [ ] Without changing `coolObject`, use `sort()` to...
-    - [ ] Print every key and value in `coolObject` in alphabetical order (A to Z)
-    - [ ] Print every key and value in `coolObject` in reverse alphabetical order (Z to A)
-- [ ] Iterate over the `daysInMonth` object from the [Objects](#objects) section, printing out the name of every month that has `31` days.
+- [X] Declare an object `coolObject` containing at least 5 key/value pairs and..
+  - [X] Print out every key and value in `coolObject`
+  - [X] Without changing `coolObject`, use `sort()` to...
+    - [X] Print every key and value in `coolObject` in alphabetical order (A to Z)
+    - [X] Print every key and value in `coolObject` in reverse alphabetical order (Z to A)
+- [X] Iterate over the `daysInMonth` object from the [Objects](#objects) section, printing out the name of every month that has `31` days.
 
 ### Logical Operators
 

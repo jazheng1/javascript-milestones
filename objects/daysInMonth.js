@@ -14,4 +14,7 @@ daysInMonth.October = 31;
 daysInMonth.November = 30;
 daysInMonth.December = 31;
 
-console.log('The Calender:', daysInMonth);
+// console.log('The Calender:', daysInMonth);
+
+// this is the syntax to export things
+module.exports =  daysInMonth;
